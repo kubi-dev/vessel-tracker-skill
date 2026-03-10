@@ -1,14 +1,34 @@
 # /vessel-tracker — Persian Gulf Vessel Tracking Skill
 
-Claude Code skill for tracking oil tanker movements during the 2026 Strait of Hormuz crisis. Spawns 4 parallel agents to collect AIS data, monitor incidents, and compile weekly reports.
+AI coding agent skill for tracking oil tanker movements during the 2026 Strait of Hormuz crisis. Spawns parallel agents to collect AIS data, monitor incidents, and compile weekly reports.
+
+Works with Claude Code, Codex, and Antigravity.
 
 ## Setup
 
-1. Copy this entire `skill/` directory to `~/.claude/skills/vessel-tracker/`
-2. Run `/vessel-tracker` in Claude Code
-3. For scheduled runs: `/loop 24h /vessel-tracker`
+```
+npx vessel-tracker
+```
 
-That's it. All data files, watchlist, and report templates are included.
+This installs the skill to all supported tools at once:
+
+| Tool | Install path |
+|------|-------------|
+| Claude Code | `~/.claude/skills/vessel-tracker/` |
+| Codex | `~/.codex/skills/vessel-tracker/` |
+| Antigravity | Appended to `~/.gemini/GEMINI.md` |
+
+## Usage
+
+**Claude Code**
+- `/vessel-tracker` to generate a report
+- `/loop 24h /vessel-tracker` for scheduled runs
+
+**Codex**
+- The skill is auto-discovered — say "track vessels" or "vessel report"
+
+**Antigravity**
+- Say "track vessels", "vessel report", or "Hormuz traffic"
 
 ## What's Inside
 

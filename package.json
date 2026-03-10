@@ -1,0 +1,25 @@
+{
+  "name": "vessel-tracker",
+  "version": "1.0.0",
+  "description": "Claude Code skill for tracking oil tanker movements in the Persian Gulf / Strait of Hormuz",
+  "bin": {
+    "vessel-tracker": "./bin/install.mjs"
+  },
+  "files": [
+    "bin/",
+    "skill/"
+  ],
+  "keywords": [
+    "claude-code",
+    "skill",
+    "vessel-tracking",
+    "maritime",
+    "persian-gulf",
+    "strait-of-hormuz"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/piotrmisiurek/vessel-tracker"
+  }
+}

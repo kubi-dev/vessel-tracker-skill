@@ -1,3 +1,8 @@
+---
+name: vessel-tracker
+description: Track oil tanker and vessel movements in the Persian Gulf / Strait of Hormuz area
+---
+
 # /vessel-tracker
 
 Track oil tanker and vessel movements in the Persian Gulf / Strait of Hormuz area. Generates a weekly activity report with daily positions for tracked vessels.
