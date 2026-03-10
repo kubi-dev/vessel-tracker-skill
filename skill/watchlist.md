@@ -1,6 +1,6 @@
 # Vessel Watchlist — Persian Gulf / Strait of Hormuz
 
-Last updated: 2026-03-10 (revised)
+Last updated: 2026-03-10 (evening)
 
 ## Vessels to Track
 
@@ -12,6 +12,7 @@ Last updated: 2026-03-10 (revised)
 | DESH VAIBHAV | 9297498 | 419531000 | India | VLCC | 316,409 |
 | ULIVIA | 9598309 | 636024941 | Liberia | Bulk Carrier | 95,720 |
 | SEA LA DONNA | 9380532 | 636023670 | Liberia | Product | 47,128 |
+| SHADEN | 9779848 | 403530000 | Saudi Arabia | VLCC | 298,750 |
 
 ### ATTACKED/DAMAGED
 
@@ -26,9 +27,11 @@ Last updated: 2026-03-10 (revised)
 | MKD VYOM | 9284386 | 538009510 | Marshall Islands | Crude (LR1) | 74,032 | Struck Mar 1 |
 | PRIMA | 9427433 | 229450000 | Malta | Chemical | 7,500 | Drone Mar 7 |
 | LOUIS P | 9749336 | 538006806 | Marshall Islands | Product | 25,161 | Drone Mar 7 |
-| LIBRA TRADER | 9562673 | 538004051 | Marshall Islands | VLCC | 310,339 | Near-miss Mar 3 |
+| LIBRA TRADER | 9562673 | 538004051 | Marshall Islands | VLCC | 310,339 | Struck Mar 3 (upgraded) |
 | SAFEEN PRESTIGE | — | — | Malta | Container | — | Missile Mar 4 |
 | MUSSAFAH 2 | — | — | UAE | Tugboat | — | Sunk Mar 6 (4+ killed) |
+| GOLD OAK | 9806342 | 352428000 | Panama | Bulk Carrier | 37,732 | Projectile Mar 4 |
+| MSC GRACE | — | — | Unknown | Container | — | Near-miss Mar 4 |
 
 ### TRANSITED / ESCAPED (CONFIRMED)
 
@@ -36,40 +39,52 @@ Last updated: 2026-03-10 (revised)
 |--------|-----|------|------|------|-----|--------|
 | DESH VIRAAT | 9371593 | 419740000 | India | VLCC | 320,412 | Before crisis |
 | DESH VISHAL | 9371749 | 419778000 | India | VLCC | 321,137 | Before crisis |
-| SHENLONG | 9379210 | 636024998 | Liberia | Suezmax | 159,021 | AIS off, dark transit |
+| SHENLONG | 9379210 | 636024998 | Liberia | Suezmax | 159,021 | AIS off, dark transit — ARRIVED MUMBAI Mar 10 |
 | HILDA I | 9357389 | 422200600 | Iran | VLCC | 317,367 | Iran flag |
 | BOGAZICI | 9237747 | 352002403 | Panama | LPG | 26,616 | "Muslim Turkish" |
 | IRON MAIDEN | 9691149 | 538010225 | Marshall Islands | Bulk | 36,372 | "China Owner" |
 | SINO OCEAN | 9222338 | 636020396 | Liberia | Bulk | 53,733 | "China Owner All Crew" |
-
-### STATUS UNCERTAIN (may still be inside Gulf)
-
-| Vessel | IMO | MMSI | Flag | Type | DWT | Notes |
-|--------|-----|------|------|------|-----|-------|
-| SHADEN | 9779848 | 403530000 | Saudi Arabia | VLCC | 298,750 | AIS anomalous (31-57 kn), position in UAE waters |
-| SMYRNI | 9493779 | 636015015 | Liberia | Suezmax | 149,998 | AIS stale 7+ hrs, position in UAE EEZ, may be going dark |
+| DANUTA I | 9193721 | 511101556 | Palau | LPG | — | Sanctioned, AIS on, Mar 6 |
 
 ### OPERATING INSIDE GULF
 
 | Vessel | IMO | MMSI | Flag | Type | DWT | Activity |
 |--------|-----|------|------|------|-----|----------|
-| POLA | 9493767 | 636015014 | Liberia | Suezmax | 149,996 | Loading at multiple ports |
-| MARATHI | 9772357 | 248347000 | Malta | Suezmax | 149,992 | Anchored near Mubarraz Island, awaiting transit |
+| POLA | 9493767 | 636015014 | Liberia | Suezmax | 149,996 | Loading at multiple ports. Currently Ras al-Khafji |
+| MARATHI | 9772357 | 248347000 | Malta | Suezmax | 149,992 | Moved to Al Hamra anchorage from Mubarraz Island |
+| PLATA CARRIER | 9358280 | 636019743 | Liberia | Crude | — | Loading 1.94M bbl for Indian Oil |
+
+### PREPARING TRANSIT
+
+| Vessel | IMO | MMSI | Flag | Type | DWT | Notes |
+|--------|-----|------|------|------|-----|-------|
+| SMYRNI | 9493779 | 636015015 | Liberia | Suezmax | 149,998 | Moved 40 km south to N of Jebel Ali. AIS restored. Loaded, dest Mumbai |
+
+### IRISL DUAL-USE CARGO
+
+| Vessel | IMO | MMSI | Flag | Type | DWT | Notes |
+|--------|-----|------|------|------|-----|-------|
+| SHABDIS | 9349588 | 422031200 | Iran | Container | 86,018 | Suspected rocket fuel precursor, en route Chabahar ETA Mar 16 |
+| BARZIN | 9820269 | 422154100 | Iran | Container | — | Suspected rocket fuel precursor, possibly on fire near Bandar Abbas |
 
 ### RESCUE VESSEL
 
 | Vessel | IMO | MMSI | Flag | Type | DWT | Action |
 |--------|-----|------|------|------|-----|--------|
-| SAND | 9379612 | 352004827 | Panama | Product (LR2) | 115,879 | Rescued MKD Vyom crew |
+| SAND | 9379612 | 352004827 | Panama | Product (LR2) | 115,879 | Rescued MKD Vyom crew. Heading SW past Oman |
 
 ## Changes from Previous Watchlist
 
-- **MARATHI** moved from "Transited/Escaped" to "Operating Inside Gulf" — AIS confirms position deep inside Gulf near Mubarraz Island
-- **SMYRNI** moved from "Transited/Escaped" to "Status Uncertain" — AIS shows position in UAE EEZ, may be preparing dark transit
-- **SHADEN** moved from "Transited/Escaped" to "Status Uncertain" — AIS anomalous with impossible speeds, position shows UAE waters
-- **SAFEEN PRESTIGE** added to "Attacked/Damaged" — container ship struck by missile Mar 4
-- **MUSSAFAH 2** added to "Attacked/Damaged" — tugboat sunk Mar 6, deadliest single incident (4+ killed)
-- **SEA LA DONNA** moved from "Operating Inside Gulf" to "Stuck in Gulf" — attack report downgraded by JMIC, AIS stale since Mar 8
+- **SHADEN** moved from "Status Uncertain" to "Stuck in Gulf" — position confirmed unchanged for days despite AIS anomalies
+- **SMYRNI** moved from "Status Uncertain" to new "Preparing Transit" category — moved 40 km south toward Jebel Ali
+- **LIBRA TRADER** attack upgraded from near-miss to confirmed hit — AIS reappeared Mar 10
+- **GOLD OAK** added to "Attacked/Damaged" — Panama-flagged bulk carrier struck Mar 4 near Fujairah
+- **MSC GRACE** added to "Attacked/Damaged" — container ship near-miss Mar 4 west of Dubai
+- **DANUTA I** added to "Transited/Escaped" — US-sanctioned LPG tanker transited Hormuz laden Mar 6
+- **SHABDIS** and **BARZIN** added as new "IRISL Dual-Use Cargo" category
+- **PLATA CARRIER** added to "Operating Inside Gulf" — loading 1.94M bbl for Indian Oil
+- **MARATHI** updated — moved from Mubarraz Island to Al Hamra anchorage cluster
+- **SHENLONG** updated — arrived Mumbai, first blockade-breaking delivery complete
 
 ## Data Sources (free, no login required)
 
@@ -85,3 +100,5 @@ Last updated: 2026-03-10 (revised)
 - gCaptain — `https://gcaptain.com`
 - Splash247 — `https://splash247.com`
 - Maritime Executive — `https://maritime-executive.com`
+- Al-Monitor — `https://www.al-monitor.com`
+- Bloomberg — `https://www.bloomberg.com`

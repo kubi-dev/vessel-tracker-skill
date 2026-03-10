@@ -7,7 +7,7 @@ Works with Claude Code, Codex, and Antigravity.
 ## Setup
 
 ```
-npx vessel-tracker
+npx github:kubi-dev/vessel-tracker-skill
 ```
 
 This installs the skill to all supported tools at once:
@@ -37,7 +37,7 @@ This installs the skill to all supported tools at once:
 | `SKILL.md` | Skill definition — triggers on "track ships", "vessel report", "Hormuz traffic", etc. |
 | `team-config.json` | Team agent config — 4 agents (gulf-tracker, transit-tracker, incident-tracker, report-writer) |
 | `watchlist.md` | Vessel watchlist: IMO, MMSI, flag, type, DWT, organized by status |
-| `report-2026-03-10.md` | Example report: 28 vessels, daily positions Mar 3-10, crisis timeline |
+| `report-2026-03-10.md` | Latest report: 34 vessels, daily positions Mar 3-10, crisis timeline |
 | `data/gulf-vessels.md` | Raw AIS data — vessels inside the Gulf |
 | `data/transit-vessels.md` | Raw AIS data — vessels that transited the Strait |
 | `data/incident-vessels.md` | Raw data — attacked/damaged vessels |
@@ -56,9 +56,11 @@ ShipInfo.net, Maritime Optima, VesselTracker, MyShipTracking, MagicPort
 
 ## Background
 
-Feb 28, 2026: US/Israeli strikes on Iran triggered IRGC closure of the Strait of Hormuz. ~400 tankers trapped. 13+ vessels attacked, 7+ crew killed. GPS jamming/spoofing affecting 1,650+ vessels.
+Feb 28, 2026: US/Israeli strikes on Iran triggered IRGC closure of the Strait of Hormuz. ~200 tankers trapped. ~20,000 seafarers stranded. 15 vessels attacked, 7+ crew killed. GPS jamming/spoofing affecting 1,650+ vessels. Crude at $119+/bbl.
 
-## Current Tracking
+## Current Tracking (Mar 10, 2026)
 
-28 vessels from 14 flag states:
-- 4 stuck in Gulf | 12 attacked/damaged | 7 escaped | 2 uncertain | 2 operating | 1 rescue
+34 vessels from 17 flag states:
+- 5 stuck in Gulf | 15 attacked/damaged | 8 escaped/transited | 2 operating | 1 preparing transit | 1 rescue | 2 IRISL dual-use
+
+Key event: **SHENLONG arrived Mumbai** — first confirmed blockade-breaking crude delivery (~1M barrels Saudi crude, 5-day dark transit).
