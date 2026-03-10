@@ -1,0 +1,19 @@
+{
+  "name": "vessel-tracker",
+  "description": "Team for tracking oil tanker and vessel movements in the Persian Gulf / Strait of Hormuz area. Agents fetch AIS data, monitor incidents, and compile weekly reports.",
+  "createdAt": 1773109682280,
+  "leadAgentId": "team-lead@vessel-tracker",
+  "leadSessionId": "869ca47f-a629-455f-8f02-ec0a9d42dd7f",
+  "members": [
+    {
+      "agentId": "team-lead@vessel-tracker",
+      "name": "team-lead",
+      "agentType": "team-lead",
+      "model": "claude-opus-4-6",
+      "joinedAt": 1773109682280,
+      "tmuxPaneId": "",
+      "cwd": "/Users/piotrmisiurek/ai_agents/alysa",
+      "subscriptions": []
+    }
+  ]
+}
